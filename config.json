@@ -1,0 +1,16 @@
+{
+  "project_name": "Conecta Brasil",
+  "area_id": "jabaquara-demo-01",
+  "area_name": "Área piloto de espera",
+  "environment": "demo",
+  "threshold_version": "demo-v1",
+  "camera_index": 0,
+  "roi": [ 0, 0, 1, 1 ],
+  "model": "yolo11n.pt",
+  "confidence": 0.4,
+  "device": "cpu",
+  "frame_width": 640,
+  "frame_height": 480,
+  "image_size": 416,
+  "record_interval_seconds": 5
+}
